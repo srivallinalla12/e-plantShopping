@@ -26,7 +26,7 @@ This component displays cart contents, enables quantity updates, subtotal and to
 ### 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/Ketan5757/eplant-shopping.git
+git clone https://github.com/srivallinalla12/e-plantShopping.git
 ```
 ### 2️⃣ Navigate into the project directory:
 
