@@ -42,7 +42,7 @@ npm install
 
 ### 4️⃣ Start the development server:
 ```bash
-npm run dev
+npm run dev -- --open
 ```
 
 ### 🌐 Deployment:
