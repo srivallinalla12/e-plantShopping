@@ -5,7 +5,7 @@ A beginner-friendly e-commerce web app for plant shopping built with React. This
 
 ## 💡 Demo
 
-https://ouyniya.github.io/e-plantShopping/
+https://srivallinalla12.github.io/e-plantShopping/
 
 
 ## 🛠️ Key Features & Learning Highlights
